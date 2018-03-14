@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SharedPref</string>
+
+    <string-array name="signos">
+        <item>Aries</item>
+        <item>Tauro</item>
+        <item>Geminis</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Escorpio</item>
+        <item>Sagitario</item>
+        <item>Capricornio</item>
+        <item>Acuario</item>
+        <item>Picis</item>
+    </string-array>
+
+
+</resources>
